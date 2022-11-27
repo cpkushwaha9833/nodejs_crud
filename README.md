@@ -15,7 +15,7 @@
 
 
 
-# produts api's (for checking all apis's in postman app)
+# produts api's (for checking all api's in postman app)
 
 1. create new product (http://localhost:8080/api/product/addProduct)
 2. find all product (http://localhost:8080/api/product/allProduct)
@@ -27,7 +27,7 @@
 
 
 
-# reviews api's (for checking all apis's in postman app)
+# reviews api's (for checking all api's in postman app)
 1. create new review (http://localhost:8080/api/review/addReview)
 2. find all reviews (http://localhost:8080/api/review/allReview)
 3. find single review (http://localhost:8080/api/review/:id)
