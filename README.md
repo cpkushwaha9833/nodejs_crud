@@ -4,14 +4,15 @@
 
 #instruction
 
-1. go to the xampp server and start apache and mysql
-2. go to the mysql admin (phpmyadmin) 
-3. create new database and name it "nodejs_crud"
-4. open visual code and go to the new terminal
-5. run "npm install" cammand
-6. now run "npm start" cammand
-7. now your server is started
-8. check all the api's in postman app
+1. Put this project downloaded code in c:/xampp/htdocs/nodejs_crud folder 
+2. go to the xampp server and start apache and mysql
+3. go to the mysql admin (phpmyadmin) 
+4. create new database and name it "nodejs_crud"
+5. open "nodejs_crud" folder in visual code and go to the new terminal
+6. run "npm install" cammand
+7. now run "npm start" cammand
+8. now your server is started
+9. check all the api's in postman app
 
 
 
